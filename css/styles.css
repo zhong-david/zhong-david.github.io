@@ -169,9 +169,6 @@ nav a:hover {
     align-items: center;
 }
 
-.aboutMe img {
-    object-fit:contain;
-}
 .aboutMeText {
     text-align: center;
     padding-top: 25px;
